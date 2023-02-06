@@ -1,8 +1,8 @@
-# Dual Tone Multi-Frequency Decoder
-Dual Tone Multi-Frequency Decoder made using python
+# Toby's Terror
+Toby's Terror is an AI game made with Unity.
 
 ## About:
-This is the build version. The source code for this build is at this link: https://github.com/HAKingDesign/AIProject/tree/spider The source code requires the unity game engine In the game you need to use the 'esc' (escape) key to open the pause menu, the pause menu is used to exit the game entirely while in game.
+The enemy "Toby" and his pet spider are coded using C# where a plethora of frameworks, modules, and libraries was used. Pathfinding algorithms and states and finite state automatons were used along the NavMesh module to make this NPC a terrifying AI
 
 ## Author
 * Dhruv Maniar
