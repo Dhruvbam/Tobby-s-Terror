@@ -7,7 +7,7 @@ Designed a 3D environment and implemented an intelligent (Artificial Intelligenc
 using a finite state machine in C# and NavMesh in Unity.
 
 ## Video Demo
-https://drive.google.com/file/d/1txufJdvSd_gpVBKf_n4jNQn-K-0xvOiY/view
+https://drive.google.com/file/d/1txufJdvSd_gpVBKf_n4jNQn-K-0xvOiY/view?usp=sharing
 
 ## Author
 * Dhruv Maniar
