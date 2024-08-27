@@ -1,4 +1,4 @@
-![Toby's Terror](https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/tt.jpg)
+![Toby's Terror](https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/tt.png)
 # Toby's Terror
 
 ## About
