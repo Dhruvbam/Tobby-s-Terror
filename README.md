@@ -42,7 +42,7 @@ References:
 Through the development of Toby's Terror, our team gained hands-on experience with AI in game development, particularly in utilizing FSM for NPC behavior and NavMesh for efficient pathfinding. We learned the importance of early project setup, clear communication, and the effective use of tools like Unity and GitHub.
 
 ### Screenshots / Demo
-![Screenshot 1](https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/Images/tt.jpg).
+![Screenshot 1](https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/Images/tt.jpg)
 <br/>
-https://drive.google.com/file/d/1txufJdvSd_gpVBKf_n4jNQn-K-0xvOiY/view?usp=sharing
+[![Watch the video](https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/Images/AIPres2Demo1.mp4)
 
