@@ -2,7 +2,7 @@
 ![Toby's Terror](https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/Images/tt.png)
 
 ## About
-**Toby's Terror** was created as a team project for the CS-3368-002 Introduction to Artificial Intelligence class. The purpose of this project was to explore and implement AI techniques within a game environment, specifically focusing on creating an intelligent enemy that interacts with the player in a dynamic and engaging way.
+**Toby's Terror** was created as a team project for the Introduction to Artificial Intelligence (CS-3368) class. The purpose of this project was to explore and implement AI techniques within a game environment, specifically focusing on creating an intelligent enemy that interacts with the player in a dynamic and engaging way.
 
 ## Description
 **Toby's Terror** is an interactive horror video game where the player is pursued by an AI-controlled enemy named Toby. The game utilizes advanced AI techniques, including Finite State Machines (FSM) and Navigation Meshes (NavMesh), to create an unpredictable and challenging opponent. Toby is capable of navigating the environment, making decisions based on the player's actions, and dynamically adjusting its behavior to enhance the horror experience.
