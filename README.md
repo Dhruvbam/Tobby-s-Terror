@@ -1,5 +1,5 @@
 # Toby's Terror
-![Toby's Terror](https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/tt.png)
+![Toby's Terror](https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/Images/tt.png)
 
 ## About
 **Toby's Terror** was created as a team project for the CS-3368-002 Introduction to Artificial Intelligence class. The purpose of this project was to explore and implement AI techniques within a game environment, specifically focusing on creating an intelligent enemy that interacts with the player in a dynamic and engaging way.
@@ -42,8 +42,7 @@ References:
 Through the development of Toby's Terror, our team gained hands-on experience with AI in game development, particularly in utilizing FSM for NPC behavior and NavMesh for efficient pathfinding. We learned the importance of early project setup, clear communication, and the effective use of tools like Unity and GitHub.
 
 ### Screenshots / Demo
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot 1](https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/Images/tt.jpg).
 <br/>
 https://drive.google.com/file/d/1txufJdvSd_gpVBKf_n4jNQn-K-0xvOiY/view?usp=sharing
 
