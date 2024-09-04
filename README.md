@@ -44,5 +44,5 @@ Through the development of Toby's Terror, our team gained hands-on experience wi
 ### Screenshots / Demo
 ![Screenshot 1](https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/Images/tt.jpg)
 <br/>
-[![Watch the video](https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/Images/AIPres2Demo1.mp4)
+[Watch the video](https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/Images/AIPres2Demo1.mp4)
 
