@@ -9,7 +9,6 @@ Toby's Terror is an immersive horror game where the player is pursued by an AI e
 
 ## Built With
 - <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" width="36" height="36" alt="Unity" /></a> **Unity**: The game engine used for development.
- **Unity**: The game engine used for development.
 - <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> **C#**: The programming language for scripting the game's logic.
 - **Finite State Machine (FSM)**: The architecture used to control Toby's AI behavior.
 - **Navigation Mesh (NavMesh)**: Used for pathfinding in the game's dynamic environment.
