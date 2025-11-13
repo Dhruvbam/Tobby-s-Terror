@@ -1,4 +1,8 @@
 # Toby's Terror
+<p align="center">
+  <img src="https://github.com/Dhruvbam/Tobby-s-Terror/blob/main/Images/tt.png" alt="Toby's Terror" />
+</p>
+
 
 Tobys Terror is an interactive horror video game developed by Team Skynet Dev Club as part of the Introduction to Artificial Intelligence (CS-3368) coursework at Texas Tech University. The project explores advanced AI integration in game environments, focusing on the dynamic interaction between a player and a highly intelligent enemy NPC named Toby.
 
