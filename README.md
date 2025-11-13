@@ -4,7 +4,7 @@
 </p>
 
 
-Tobys Terror is an interactive horror video game developed by Team Skynet Dev Club as part of the Introduction to Artificial Intelligence class at Texas Tech University. The project explores advanced AI integration in game environments, focusing on the dynamic interaction between a player and a highly intelligent enemy NPC named Toby.
+Toby's Terror is an interactive horror video game developed by Team Skynet Dev Club for the Introduction to Artificial Intelligence class at Texas Tech University. Developed using Unity, the game challenges players to outmaneuver Toby, a relentlessly adaptive, AI driven enemy NPC. Toby’s advanced behavioral logic is powered by Finite State Machines, Unity’s NavMesh, and custom raycasting systems, enabling him to patrol, chase, and react dynamically to player movement within a modular, richly detailed 3D environment. This project demonstrates both theoretical understanding and practical application of AI techniques in gaming, teamwork and project management, and a commitment to delivering polished gameplay for modern consumer hardware.
 
 ## Built With
 - <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" width="36" height="36" alt="Unity" /></a> **Unity**: The game engine used for development.
