@@ -26,7 +26,7 @@ Toby's Terror is an interactive horror video game developed by Team Skynet Dev C
   - NavMesh lookups: \(O(\log n)\) by environment size
   - Game runtime optimized for smooth experience on consumer hardware
 
-### Installation
+## Installation
 1. Clone the repository:
     ```bash
     git clone https://github.com/your-repo/tobys-terror.git
