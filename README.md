@@ -16,14 +16,14 @@ Toby's Terror is an interactive horror video game developed by Team Skynet Dev C
 ## Features & Technical Details
 
 - **AI-Driven Enemy:** Toby’s behavior is powered by a Finite State Machine (FSM), allowing for fluid transitions between patrol, chase, and search states. This creates unpredictable gameplay and elevates replay value for players.
-- **Real-Time Pathfinding:** The NavMesh system enables Toby to traverse complex environments with \(O(\log n)\) computational efficiency, reliably chasing players and reacting to changes in the map.
+- **Real-Time Pathfinding:** The NavMesh system enables Toby to traverse complex environments with O(log n) computational efficiency, reliably chasing players and reacting to changes in the map.
 - **Raycasting Logic:** NPC maintains spatial awareness and obstacle avoidance through continuous raycasting, preventing pathfinding failures and enhancing immersion.
 - **Scalable Performance:** The project is designed for optimal runtime efficiency and modularity, with core gameplay loops executed in C# and Unity handling asset management and rendering.
 - **Professional Asset Integration:** Modular First Person Controller and POLYGON Dungeons assets were used for rapid development and AAA-quality visuals.
 - **Team Collaboration:** Developed by a talented team of four, showcasing advanced planning, version control (GitHub), and distributed development practices in a real-world project.
 - **Complexity Stats:**
-  - FSM decisions: \(O(n)\) per update cycle
-  - NavMesh lookups: \(O(\log n)\) by environment size
+  - FSM decisions: O(n) per update cycle
+  - NavMesh lookups: O(log n) by environment size
   - Game runtime optimized for smooth experience on consumer hardware
 
 ## Installation
